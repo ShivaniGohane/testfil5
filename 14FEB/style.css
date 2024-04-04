@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/*.box{
+    background-color: blue;
+}
+
+.green{
+    color: white;
+}
+
+.btn{
+    width: 150px;
+    height: 40px;
+    padding: 5px 20px;
+    border: none;
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+}
+
+.active{
+    background-color: rgb(73, 73, 220);
+}
+
+.disable{
+    background-color: black;
+}
+
+.success{
+    background-color: greenyellow;
+}
+
+#parent>div>h1{
+    color: pink;
+}
+
+#parent>div>div>h3{
+    color: green;
+}
+
+#parent p{
+    background-color: #22cfcf;
+}
+*/
+
+/*
+text Allign and color
+#eg1{
+    color: rgb(120, 10, 230);
+}
+#eg2{
+    color: #5f6a9b;
+}
+#eg3{
+    text-align: left;
+}
+#eg4{
+    text-align: right;
+}
+#eg5{
+    text-align: center;
+}
+#eg5{
+    text-align: justify;
+}*/
+
+#eg3{
+    text-transform: uppercase;
+}
+#eg4{
+    text-transform: lowercase;
+}
+#eg5{
+    text-transform: capitalize
+    ;
+}
+
+#eg6{
+    text-decoration: underline;
+}
+#eg7{
+    text-decoration: overline;
+}
+#eg8{
+    text-decoration: line-through;
+}
+
+#eg11{
+    line-height: 100px;
+}
+#eg12{
+    line-height: 10px;
+}
+#eg13{
+    text-shadow: 30px -20px 6px red;
+}
+#eg14{
+    color: white;
+    text-shadow: 0px 0px 10px blue;
+}
+/*#{
+    font-family: 'Times New Roman', Times, serif;
+    font-family: Arial, Helvetica, sans-serif;
+    font-family: monospace;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    famous font
+    font-family: "Inter", sans-serif;;
+}
+    
+}*/
+#eg15{
+    font-family: "Poppins", sans-serif;
+    font-style: italic;
+}
